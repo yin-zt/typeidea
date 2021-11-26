@@ -1,0 +1,2 @@
+# typeidea
+train for django
